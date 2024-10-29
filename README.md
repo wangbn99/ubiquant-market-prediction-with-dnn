@@ -18,3 +18,8 @@ This dataset contains features derived from real historic data from thousands of
 ### Models
 
 To explore the better prediction, I defined some different DNN (deep neural networks) architectures, and through which I created coresponding models, trained them and saved the best trained models for each model architectures, finally generated prediction by using the best model among the saved models.
+
+## Supporting Packages and Machine Learning Algoritms
+- Keras
+- deep learning
+- LSTM
