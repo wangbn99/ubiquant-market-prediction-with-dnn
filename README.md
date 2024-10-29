@@ -21,5 +21,7 @@ To explore the better prediction, I defined some different DNN (deep neural netw
 
 ## Supporting Packages and Machine Learning Algoritms
 - Keras
-- deep learning
+- Tensorflow
+- Pandas
+- Deep Learning
 - LSTM
